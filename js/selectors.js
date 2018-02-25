@@ -15,3 +15,7 @@ function ninjaBabySelector() {
 function divSelector() {
   return $('.pics')
 }
+
+function firstItemList () {
+  return $('ul li:#pic-list')
+}
